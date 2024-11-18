@@ -1,0 +1,16 @@
+---
+version: '3.8'
+services:
+  mydb:
+    image: mysql
+    environment:
+      POSTGRES_PASSWORD: venkat
+      POSTGRES_USER: venkat
+      POSTGRES_DB: venkat
+  post:
+    image: postgres
+    ports:
+      - 8080:8080
+    links:
+      - mydb:post
+...
