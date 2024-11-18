@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1731926777,,"wq"
+|2,0,1731939302,,"wq"
 :Wq
 |2,0,1731869007,,"Wq"
 
@@ -27,237 +27,264 @@
 # Registers:
 
 # File marks:
-'0  13  6  /var/lib/docker/volumes/mynginx/_data/index.html
-|4,48,13,6,1731926777,"/var/lib/docker/volumes/mynginx/_data/index.html"
-'1  19  18  ~/lamp.yml
-|4,49,19,18,1731869354,"~/lamp.yml"
-'2  20  12  ~/hub.yml
-|4,50,20,12,1731869009,"~/hub.yml"
-'3  25  23  ~/hub.yml
-|4,51,25,23,1731868953,"~/hub.yml"
-'4  25  23  ~/hub.yml
-|4,52,25,23,1731868953,"~/hub.yml"
-'5  4  5  ~/postgress.yml
-|4,53,4,5,1731868464,"~/postgress.yml"
-'6  15  16  ~/postgress.yml
-|4,54,15,16,1731868302,"~/postgress.yml"
-'7  15  16  ~/postgress.yml
-|4,55,15,16,1731868302,"~/postgress.yml"
-'8  20  2  ~/ci-cd.yml
-|4,56,20,2,1731868070,"~/ci-cd.yml"
-'9  13  17  ~/docker-compose.yml
-|4,57,13,17,1731867565,"~/docker-compose.yml"
+'0  8  33  ~/cache
+|4,48,8,33,1731939302,"~/cache"
+'1  6  27  ~/cache
+|4,49,6,27,1731939167,"~/cache"
+'2  6  27  ~/cache
+|4,50,6,27,1731939167,"~/cache"
+'3  2  16  ~/nginxfile
+|4,51,2,16,1731938797,"~/nginxfile"
+'4  6  26  ~/dockerfile
+|4,52,6,26,1731938482,"~/dockerfile"
+'5  1  10  ~/dockerfile
+|4,53,1,10,1731938183,"~/dockerfile"
+'6  1  10  ~/dockerfile
+|4,54,1,10,1731938183,"~/dockerfile"
+'7  1  14  ~/dockerfile
+|4,55,1,14,1731938101,"~/dockerfile"
+'8  1  14  ~/dockerfile
+|4,56,1,14,1731938101,"~/dockerfile"
+'9  7  27  ~/dockerfile
+|4,57,7,27,1731938046,"~/dockerfile"
 
 # Jumplist (newest first):
--'  13  6  /var/lib/docker/volumes/mynginx/_data/index.html
-|4,39,13,6,1731926777,"/var/lib/docker/volumes/mynginx/_data/index.html"
--'  1  0  /var/lib/docker/volumes/mynginx/_data/index.html
-|4,39,1,0,1731926747,"/var/lib/docker/volumes/mynginx/_data/index.html"
--'  19  18  ~/lamp.yml
-|4,39,19,18,1731869354,"~/lamp.yml"
--'  19  18  ~/lamp.yml
-|4,39,19,18,1731869354,"~/lamp.yml"
--'  1  0  ~/lamp.yml
-|4,39,1,0,1731869080,"~/lamp.yml"
--'  1  0  ~/lamp.yml
-|4,39,1,0,1731869080,"~/lamp.yml"
--'  20  12  ~/hub.yml
-|4,39,20,12,1731869009,"~/hub.yml"
--'  20  12  ~/hub.yml
-|4,39,20,12,1731869009,"~/hub.yml"
--'  20  12  ~/hub.yml
-|4,39,20,12,1731869009,"~/hub.yml"
--'  20  12  ~/hub.yml
-|4,39,20,12,1731869009,"~/hub.yml"
--'  25  23  ~/hub.yml
-|4,39,25,23,1731868988,"~/hub.yml"
--'  25  23  ~/hub.yml
-|4,39,25,23,1731868988,"~/hub.yml"
--'  25  23  ~/hub.yml
-|4,39,25,23,1731868988,"~/hub.yml"
--'  25  23  ~/hub.yml
-|4,39,25,23,1731868988,"~/hub.yml"
--'  25  23  ~/hub.yml
-|4,39,25,23,1731868953,"~/hub.yml"
--'  25  23  ~/hub.yml
-|4,39,25,23,1731868953,"~/hub.yml"
--'  25  23  ~/hub.yml
-|4,39,25,23,1731868953,"~/hub.yml"
--'  25  23  ~/hub.yml
-|4,39,25,23,1731868953,"~/hub.yml"
--'  1  0  ~/hub.yml
-|4,39,1,0,1731868571,"~/hub.yml"
--'  1  0  ~/hub.yml
-|4,39,1,0,1731868571,"~/hub.yml"
--'  1  0  ~/hub.yml
-|4,39,1,0,1731868571,"~/hub.yml"
--'  1  0  ~/hub.yml
-|4,39,1,0,1731868571,"~/hub.yml"
--'  1  0  ~/hub.yml
-|4,39,1,0,1731868571,"~/hub.yml"
--'  1  0  ~/hub.yml
-|4,39,1,0,1731868571,"~/hub.yml"
--'  1  0  ~/hub.yml
-|4,39,1,0,1731868571,"~/hub.yml"
--'  1  0  ~/hub.yml
-|4,39,1,0,1731868571,"~/hub.yml"
--'  4  5  ~/postgress.yml
-|4,39,4,5,1731868464,"~/postgress.yml"
--'  4  5  ~/postgress.yml
-|4,39,4,5,1731868464,"~/postgress.yml"
--'  4  5  ~/postgress.yml
-|4,39,4,5,1731868464,"~/postgress.yml"
--'  4  5  ~/postgress.yml
-|4,39,4,5,1731868464,"~/postgress.yml"
--'  4  5  ~/postgress.yml
-|4,39,4,5,1731868464,"~/postgress.yml"
--'  4  5  ~/postgress.yml
-|4,39,4,5,1731868464,"~/postgress.yml"
--'  4  5  ~/postgress.yml
-|4,39,4,5,1731868464,"~/postgress.yml"
--'  4  5  ~/postgress.yml
-|4,39,4,5,1731868464,"~/postgress.yml"
--'  4  5  ~/postgress.yml
-|4,39,4,5,1731868464,"~/postgress.yml"
--'  4  5  ~/postgress.yml
-|4,39,4,5,1731868464,"~/postgress.yml"
--'  4  5  ~/postgress.yml
-|4,39,4,5,1731868464,"~/postgress.yml"
--'  4  5  ~/postgress.yml
-|4,39,4,5,1731868464,"~/postgress.yml"
--'  4  5  ~/postgress.yml
-|4,39,4,5,1731868464,"~/postgress.yml"
--'  4  5  ~/postgress.yml
-|4,39,4,5,1731868464,"~/postgress.yml"
--'  4  5  ~/postgress.yml
-|4,39,4,5,1731868464,"~/postgress.yml"
--'  4  5  ~/postgress.yml
-|4,39,4,5,1731868464,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868385,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868385,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868385,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868385,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868385,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868385,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868385,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868385,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868385,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868385,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868385,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868385,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868385,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868385,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868385,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868385,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868302,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868302,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868302,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868302,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868302,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868302,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868302,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868302,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868302,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868302,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868302,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868302,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868302,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868302,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868302,"~/postgress.yml"
--'  15  16  ~/postgress.yml
-|4,39,15,16,1731868302,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
--'  1  0  ~/postgress.yml
-|4,39,1,0,1731868144,"~/postgress.yml"
+-'  8  33  ~/cache
+|4,39,8,33,1731939302,"~/cache"
+-'  6  27  ~/cache
+|4,39,6,27,1731939275,"~/cache"
+-'  6  27  ~/cache
+|4,39,6,27,1731939167,"~/cache"
+-'  1  0  ~/cache
+|4,39,1,0,1731939086,"~/cache"
+-'  1  0  ~/cache
+|4,39,1,0,1731939086,"~/cache"
+-'  2  16  ~/nginxfile
+|4,39,2,16,1731938797,"~/nginxfile"
+-'  2  16  ~/nginxfile
+|4,39,2,16,1731938797,"~/nginxfile"
+-'  2  16  ~/nginxfile
+|4,39,2,16,1731938797,"~/nginxfile"
+-'  2  16  ~/nginxfile
+|4,39,2,16,1731938797,"~/nginxfile"
+-'  1  0  ~/nginxfile
+|4,39,1,0,1731938746,"~/nginxfile"
+-'  1  0  ~/nginxfile
+|4,39,1,0,1731938746,"~/nginxfile"
+-'  1  0  ~/nginxfile
+|4,39,1,0,1731938746,"~/nginxfile"
+-'  1  0  ~/nginxfile
+|4,39,1,0,1731938746,"~/nginxfile"
+-'  6  26  ~/dockerfile
+|4,39,6,26,1731938482,"~/dockerfile"
+-'  6  26  ~/dockerfile
+|4,39,6,26,1731938482,"~/dockerfile"
+-'  6  26  ~/dockerfile
+|4,39,6,26,1731938482,"~/dockerfile"
+-'  6  26  ~/dockerfile
+|4,39,6,26,1731938482,"~/dockerfile"
+-'  6  26  ~/dockerfile
+|4,39,6,26,1731938482,"~/dockerfile"
+-'  6  26  ~/dockerfile
+|4,39,6,26,1731938482,"~/dockerfile"
+-'  6  26  ~/dockerfile
+|4,39,6,26,1731938482,"~/dockerfile"
+-'  6  26  ~/dockerfile
+|4,39,6,26,1731938482,"~/dockerfile"
+-'  1  10  ~/dockerfile
+|4,39,1,10,1731938451,"~/dockerfile"
+-'  1  10  ~/dockerfile
+|4,39,1,10,1731938451,"~/dockerfile"
+-'  1  10  ~/dockerfile
+|4,39,1,10,1731938451,"~/dockerfile"
+-'  1  10  ~/dockerfile
+|4,39,1,10,1731938451,"~/dockerfile"
+-'  1  10  ~/dockerfile
+|4,39,1,10,1731938451,"~/dockerfile"
+-'  1  10  ~/dockerfile
+|4,39,1,10,1731938451,"~/dockerfile"
+-'  1  10  ~/dockerfile
+|4,39,1,10,1731938451,"~/dockerfile"
+-'  1  10  ~/dockerfile
+|4,39,1,10,1731938451,"~/dockerfile"
+-'  1  10  ~/dockerfile
+|4,39,1,10,1731938183,"~/dockerfile"
+-'  1  10  ~/dockerfile
+|4,39,1,10,1731938183,"~/dockerfile"
+-'  1  10  ~/dockerfile
+|4,39,1,10,1731938183,"~/dockerfile"
+-'  1  10  ~/dockerfile
+|4,39,1,10,1731938183,"~/dockerfile"
+-'  1  10  ~/dockerfile
+|4,39,1,10,1731938183,"~/dockerfile"
+-'  1  10  ~/dockerfile
+|4,39,1,10,1731938183,"~/dockerfile"
+-'  1  10  ~/dockerfile
+|4,39,1,10,1731938183,"~/dockerfile"
+-'  1  10  ~/dockerfile
+|4,39,1,10,1731938183,"~/dockerfile"
+-'  1  14  ~/dockerfile
+|4,39,1,14,1731938101,"~/dockerfile"
+-'  1  14  ~/dockerfile
+|4,39,1,14,1731938101,"~/dockerfile"
+-'  1  14  ~/dockerfile
+|4,39,1,14,1731938101,"~/dockerfile"
+-'  1  14  ~/dockerfile
+|4,39,1,14,1731938101,"~/dockerfile"
+-'  1  14  ~/dockerfile
+|4,39,1,14,1731938101,"~/dockerfile"
+-'  1  14  ~/dockerfile
+|4,39,1,14,1731938101,"~/dockerfile"
+-'  1  14  ~/dockerfile
+|4,39,1,14,1731938101,"~/dockerfile"
+-'  1  14  ~/dockerfile
+|4,39,1,14,1731938101,"~/dockerfile"
+-'  7  27  ~/dockerfile
+|4,39,7,27,1731938081,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938081,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938081,"~/dockerfile"
+-'  7  27  ~/dockerfile
+|4,39,7,27,1731938081,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938081,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938081,"~/dockerfile"
+-'  7  27  ~/dockerfile
+|4,39,7,27,1731938081,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938081,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938081,"~/dockerfile"
+-'  7  27  ~/dockerfile
+|4,39,7,27,1731938081,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938081,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938081,"~/dockerfile"
+-'  7  27  ~/dockerfile
+|4,39,7,27,1731938081,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938081,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938081,"~/dockerfile"
+-'  7  27  ~/dockerfile
+|4,39,7,27,1731938081,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938081,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938081,"~/dockerfile"
+-'  7  27  ~/dockerfile
+|4,39,7,27,1731938081,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938081,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938081,"~/dockerfile"
+-'  7  27  ~/dockerfile
+|4,39,7,27,1731938081,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938081,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938081,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938046,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938046,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938046,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938046,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938046,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938046,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938046,"~/dockerfile"
+-'  6  27  ~/dockerfile
+|4,39,6,27,1731938046,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
+-'  2  16  ~/dockerfile
+|4,39,2,16,1731937993,"~/dockerfile"
 
 # History of marks within files (newest to oldest):
 
+> ~/cache
+	*	1731939300	0
+	"	8	33
+	^	8	34
+	.	8	33
+	+	6	28
+	+	8	33
+
+> ~/nginxfile
+	*	1731938795	0
+	"	2	16
+	^	2	17
+	.	2	10
+	+	2	10
+
+> ~/dockerfile
+	*	1731938480	0
+	"	6	26
+	^	6	27
+	.	6	26
+	+	2	17
+	+	7	27
+	+	1	11
+	+	6	26
+
 > /var/lib/docker/volumes/mynginx/_data/index.html
-	*	1731926775	0
-	"	13	6
-	^	13	7
-	.	13	6
-	+	13	6
+	*	1731936547	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	22	6
+	+	9	7
+	+	1	0
 
 > ~/lamp.yml
 	*	1731869352	0

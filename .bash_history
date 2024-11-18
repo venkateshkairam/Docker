@@ -162,3 +162,108 @@ cd
 docker run --name n1 -d -P -v mynginx:/usr/share/html nignx
 docker run --name n1 -d -P -v mynginx:/usr/share/html nginx
 docker container ls
+docker images
+docker system prune -af
+docker rm -f $(docker ps -aq)
+ld
+ls
+mkdir /data
+rmdir data/
+rmdir /data
+rm /data
+git init
+git add .
+git status
+git commit -m "frist version"
+git remote add origin https://github.com/venkateshkairam/Docker.git
+git push -u origin master
+ls
+git add
+git status
+git add .
+git status
+git remote add origin https://github.com/venkateshkairam/Docker.git
+git push -u origin master
+rm *
+mkdir ven
+docker run --name u1 -it -v /ven ubuntu
+docker inspect u1
+cd  /var/lib/docker/volumes/200f38fa0c83e4e54c9a627c4d26377892a082b9293a860bcc5b2dbc37ce70b6/_data
+ls
+cd 
+docker run --name c1 -it -v /ven centos
+docker run --name c2 -it --volumes-from c1 centos
+docker run --name c3 -it --volumes-from c2 centos
+docker attach c1
+docker start c1
+docker attach c1
+docker rm -f c1 c2 c3
+docker inspect c1
+docker system prune -af
+docker rm -f $(docker ps -aq)
+docker volume ls
+docker volume rm myvolume
+docker volume rm mynginx
+docker volume create myvolume 
+docker inspect myvolume
+cd /var/lib/docker/volumes/myvolume/_data
+touch ven gee
+ls
+exit 
+ls
+cd /var/lib/docker/volumes/myvolume/_data
+ls
+cd 
+docker run --name u1 -v myvolume:/ven ubuntu
+ls
+cd ven
+ls
+docker system prune -af
+docker rm -f $(docker ps -aq)
+cd ..
+docker volume rm myvolume
+docker volume create myvolume
+docker volume inspect myvolume
+cd /var/lib/docker/volumes/myvolume/_data
+ls
+touch f3 f4
+ls
+cd 
+docker run --name u1 -it -v myvolume:/tmp ubuntu
+docker rm -f u1
+docker volume inspect myvolume
+cd /var/lib/docker/volumes/myvolume/_data
+ls
+docker run --name u2 -it -v myvolume:/tmp ubuntu
+docker rm -f u2
+cd /var/lib/docker/volumes/myvolume/_data
+ls
+cd ...
+cd
+docker system prune -af
+docker volume create mynginc
+docker volume rm mynginc
+docker volume create mynginx
+docker voulme inspect mynginx
+docker volume inspect mynginx
+cd /var/lib/docker/volumes/mynginx/_data
+ld
+ls
+vim index.html
+ls
+cd
+docker run --name mynginx -d -P -v mynginx:/usr/share/html nginx
+docker conatiner ls
+docker container ls
+docker run --name u1 -it ubuntu
+docker rm -f u1
+docker run --name u1 -it ubuntu
+docker commit u1 myubuntu
+\
+docker images
+docker rm -f u1
+docker images
+docker run --name u2 -it myubuntu
+docker system prune -af
+docker rm -f $(docker ps -aq)
+exit

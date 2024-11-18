@@ -1,0 +1,8 @@
+FROM ubuntu
+MAINTAINER venkat
+
+RUN apt-get update
+RUN apt-get install -y tree
+Run apt-get install -y maven
+
+RUN apt-get install openjdk-11-jdk
