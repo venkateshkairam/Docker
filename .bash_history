@@ -267,3 +267,143 @@ docker run --name u2 -it myubuntu
 docker system prune -af
 docker rm -f $(docker ps -aq)
 exit
+vim dockerfile
+docker build -t mynginx
+ls
+docker build -t mynginx .
+docker images
+docker system prune -af
+git clone https://github.com/intelliqittrainings/voting-app.git
+ls
+cd voting-app
+ls
+cd ..
+rm -rf voting-app
+ls
+docker system prune -af
+vim dockerfile
+docker build -t myubuntu .
+docker images
+vim dockerfile
+docker build -t myubuntu .
+docker images
+docker run --name u1  -it myubuntu
+docker pull ubuntu
+docker images
+vim dockerfile
+docker rm  -f myubuntu
+docker systen prune -af
+docker system prune -af
+docker images
+docker build -t myubuntu .
+docker run --name u1 -it myububuntu
+docker run --name u1 -it myubuntu
+docker system prune -af
+ls
+vim nginxfile
+docker build -t mynigx
+docker build -t mynig . 
+docker build -f nginxfile -t mynew
+docker build -f nginxfile -t mynew .
+cd /var/lib/docker
+ls
+pwd
+cd 
+ped
+pwd
+vim cache
+ls
+docker build -f cache -t cacheblusting
+docker build -f cache -t cacheblusting .
+ls
+docker run --name u1 -it cacheblusting
+vim cache
+docker system prune -af
+docker run --name u1 -it cacheblusting
+docker run --name u1 -it cacheblusting .
+docker rm -f u1
+docker build -f cache -t cacheblusting .
+docker build --no-cache -f cache -t cacheblusting .
+git status
+git commit -m "second version"
+git push https://github.com/venkateshkairam/Docker.git
+vim docker
+wget
+apt-get install -y wget
+wget https://get.jenkins.io/war-stable/2.479.1/jenkins.war
+ls
+vim docker
+ls
+curl -fsSL https://get.docker.com -o install-docker.sh
+ls
+vim install
+docker build -f install -t dockerinstall
+docker build -f install -t dockerinstall .
+vim install
+docker build -f install -t dockerinstall .
+vim install
+docker build -f install -t dockerinstall .
+vim install
+docker build -f install -t dockerinstall .
+vim install
+docker build -f install -t dockerinstall .
+docker run --name u1 -it dockerinstall
+docker system prune -af
+vim install1
+docker build -f install1 -t installd
+docker build -f install1 -t installd .
+vim ansible
+docker build -f ansible -t ansiblea .
+vim ansible
+docker build -f ansible -t ansiblea .
+docker  run --name u1 -it ansiblea
+ansible --version
+exir
+exit
+ls
+vim ansible
+docker  run --name u1 --no-cache -it ansiblea
+docker  run --name u1 --no-cache -it ansiblea .
+docker  run --name u1 --no-cachae -it ansiblea .
+docker build -f ansible -t --no-cache ansiblea .
+docker build -f ansible -t --no-cache ansible .
+docker system prune -af
+ls
+vim ansible
+docker build -t -f ansible  ansiblea
+docker build -t -f ansible  ansiblea .
+docker system prune -af
+rm ansible
+ls
+vim ansible
+docker build -f ansible -t myubuntu .
+docker run --name u1 -it myubuntu
+vim jenkins
+docker build -f jenkins -f myjenkins .
+docker build -f jenkins -f myubuntu .
+vim jenkins
+docker build -f jenkins -t myjenkins .
+docker images
+docker run --name j1 -it myjenkins
+vim volumeimage
+docker build -f volumeimage -t vimage .
+docker voulme ls
+docker volume ls
+docker run --name c1 -it vimage
+docker inspect c1
+docker rm -f c1
+cd /var/lib/docker/volumes/bb6bdcafa828a90334a5c7af72025e43229e7ba468f1c5a5feb777a97989f639/_data
+ls
+cd 
+docker system prune -af
+vim userfile
+whoami
+docker run --name c2 it centos
+docker run --name c2 -it centos
+docker rm -f c2
+docker run --name j1 -d -P jenkins/jenkins
+vim userfile
+docker build -f userfile -t myjenkins .
+vim userfile
+docker build -f userfile -t myjenkins .
+vim userfile

@@ -1,0 +1,6 @@
+FROM ubuntu
+MAINTAINER venkat
+
+WORKDIR .
+COPY install-docker.sh .
+RUN  sh install-docker.sh  

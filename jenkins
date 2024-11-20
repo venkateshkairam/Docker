@@ -1,0 +1,4 @@
+FROM ubuntu
+MAINTAINER venkat
+
+ADD https://get.jenkins.io/war-stable/2.479.1/jenkins.war /tmp
